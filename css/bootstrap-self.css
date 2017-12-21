@@ -1,0 +1,64 @@
+body{
+    font-family: "Microsoft YaHei UI";
+    padding-top: 70px;
+}
+/*进度条*/
+.progress{
+    margin-bottom: 15px;
+}
+
+/*头像*/
+.wh64{
+    width: 64px;
+    height:64px;
+    border-radius: 50%;
+}
+/*按钮*/
+.btn_15{
+    margin-top: 15px;
+}
+/*padding*/
+.padd0{
+    padding: 0px;
+}
+.table-bordered{
+    border-top: none;
+}
+
+/*用户管理列表*/
+.page-header{
+    margin: 0px 0px 30px 0px;
+}
+.page-header h1{
+    margin: 0px;
+    font-size: 16px;
+}
+
+/*用户搜索*/
+.user_search_change{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+/*添加文章*/
+.addContent_form{
+    padding-top: 20px;
+}
+/*标签*/
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin: 0px 15px 15px 0px;
+}
+/*footer*/
+footer{
+    border-top:1px solid #dddddd ;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: 40px;
+}
